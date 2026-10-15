@@ -1,0 +1,74 @@
+[
+  {
+    "device_id": "D-22",
+    "auditorium": "Orion",
+    "due_at": "2049-11-03T18:10Z",
+    "kind": "RECEIVER",
+    "selected_checkpoint": null,
+    "selected_at": null,
+    "selected_condition": null,
+    "selected_scan_no": null,
+    "usable_scan_count": 0,
+    "status": "MISSING_SCAN"
+  },
+  {
+    "device_id": "D-09",
+    "auditorium": "Cygnus",
+    "due_at": "2049-11-03T17:30Z",
+    "kind": "RECEIVER",
+    "selected_checkpoint": "LOBBY",
+    "selected_at": "2049-11-03T17:20Z",
+    "selected_condition": "DAMAGED",
+    "selected_scan_no": 3,
+    "usable_scan_count": 1,
+    "status": "DAMAGED"
+  },
+  {
+    "device_id": "D-04",
+    "auditorium": "Lyra",
+    "due_at": "2049-11-03T17:45Z",
+    "kind": "HEADSET",
+    "selected_checkpoint": "LOBBY",
+    "selected_at": "2049-11-03T17:40Z",
+    "selected_condition": "OK",
+    "selected_scan_no": 9,
+    "usable_scan_count": 2,
+    "status": "NOT_IN_LOCKER"
+  },
+  {
+    "device_id": "D-31",
+    "auditorium": "Lyra",
+    "due_at": "2049-11-03T18:00Z",
+    "kind": "HEADSET",
+    "selected_checkpoint": "ISSUED",
+    "selected_at": "2049-11-03T17:55Z",
+    "selected_condition": "OK",
+    "selected_scan_no": 4,
+    "usable_scan_count": 1,
+    "status": "NOT_IN_LOCKER"
+  },
+  {
+    "device_id": "D-17",
+    "auditorium": "Orion",
+    "due_at": "2049-11-03T18:00Z",
+    "kind": "RECEIVER",
+    "selected_checkpoint": "LOBBY",
+    "selected_at": "2049-11-03T18:05Z",
+    "selected_condition": "OK",
+    "selected_scan_no": 5,
+    "usable_scan_count": 2,
+    "status": "NOT_IN_LOCKER"
+  },
+  {
+    "device_id": "D-12",
+    "auditorium": "Cygnus",
+    "due_at": "2049-11-03T18:15Z",
+    "kind": "HEADSET",
+    "selected_checkpoint": "LOCKER",
+    "selected_at": "2049-11-03T18:10Z",
+    "selected_condition": "OK",
+    "selected_scan_no": 6,
+    "usable_scan_count": 2,
+    "status": "CLEARED"
+  }
+]
