@@ -1,0 +1,13 @@
+{"device_id":"D-17","checkpoint":"ISSUED","scanned_at":"2049-11-03T17:50Z","condition":"OK","scan_no":1}
+{"device_id":"D-04","checkpoint":"LOCKER","scanned_at":"2049-11-03T17:40Z","condition":"OK","scan_no":2}
+{"device_id":"D-09","checkpoint":"LOBBY","scanned_at":"2049-11-03T17:20Z","condition":"DAMAGED","scan_no":3}
+{"device_id":"D-31","checkpoint":"ISSUED","scanned_at":"2049-11-03T17:55Z","condition":"OK","scan_no":4}
+{"device_id":"D-17","checkpoint":"LOBBY","scanned_at":"2049-11-03T18:05Z","condition":"OK","scan_no":5}
+{"device_id":"D-12","checkpoint":"LOCKER","scanned_at":"2049-11-03T18:10Z","condition":"OK","scan_no":6}
+{"device_id":"D-04","checkpoint":"LOBBY","scanned_at":"2049-11-03T17:40Z","condition":"OK","scan_no":9}
+{"device_id":"D-22","checkpoint":"LOBBY","scanned_at":"2049-11-03T18:21Z","condition":"OK","scan_no":7}
+{"device_id":"D-31","checkpoint":"LOCKER","scanned_at":"not-a-minute","condition":"OK","scan_no":8}
+{"device_id":"D-12","checkpoint":"LOCKER","scanned_at":"2049-11-03T18:10Z","condition":"OK","scan_no":6}
+{"device_id":"D-99","checkpoint":"LOBBY","scanned_at":"2049-11-03T18:00Z","condition":"OK","scan_no":10}
+{"device_id":"D-09","checkpoint":"LOBBY","scanned_at":"2049-11-03T17:25Z","condition":"BROKEN","scan_no":11}
+not json
